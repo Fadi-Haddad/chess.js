@@ -1,0 +1,12 @@
+#gameboard{
+width: 320px;
+height: 320px;
+background-color:black;
+}
+.square{
+width: 40px;
+height: 40px;
+}
+.beige{
+    background-color: rgb(110, 110, 98);
+}
